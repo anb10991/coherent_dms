@@ -1,0 +1,9 @@
+node_modules
+.venv
+.vscode
+media/*
+__pycache__
+migrations
+*-lock.json
+build
+static/*
