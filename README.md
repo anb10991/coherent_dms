@@ -1,5 +1,5 @@
 # Coherent Document Management System
-Coherent DMS using Django and React.js
+Coherent DMS using Django as Back-End and React.js as Front-End
 
 ## Installation guide
 - Install virtual environment for django
